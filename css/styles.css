@@ -160,6 +160,7 @@ ins {
 	list-style-type: none;
 	border-right: 1px solid #C6C6C6;
 	padding: 20px;
+	margin: 20px 0px;
 }
 
 .teasers-block h4, p, ul {
