@@ -50,6 +50,15 @@ header h1 {
 	float: left;
 }
 
+.home {
+	color: #FFF653;
+	padding: 3px 0;
+	font-size: 30px;
+	font-family: Merriweather;
+	font-weight: 400;
+	float: left;
+}
+
 .nav-bar {
 	float: right;
 }
